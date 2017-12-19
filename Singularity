@@ -5,4 +5,4 @@ From: ubuntu:16.04
 	apt-get -y update
 	apt-get -y install libgsl-dev
 %runscript
-	./run.sh
+	./run.sh # optional
